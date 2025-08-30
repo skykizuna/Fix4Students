@@ -1,2 +1,6 @@
 # Songs4Students
-it's for my students for their svelte projects (and possibly more to come lmao)
+If you got any compiler error please do the following:
+1. Rename your file as "studentName_LabNumber_fix"
+2. Upload it into the repository
+3. If there is any fixes, I will add my comment in the repository and commit the fixed code back to you
+4. Give me time to check, sometimes I will need to take my time looking at your code
