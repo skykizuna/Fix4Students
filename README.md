@@ -1,4 +1,4 @@
-# Songs4Students
+# Fix4Students
 If you got any compiler error please do the following:
 1. Rename your file as "studentName_LabNumber_fix"
 2. Upload it into the repository
